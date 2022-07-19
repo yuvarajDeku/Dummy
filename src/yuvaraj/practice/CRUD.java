@@ -76,7 +76,7 @@ public class CRUD {
 					found = true;
 				}
 				if (!found) {
-					System.out.println("Record Not Found");
+					System.out.println("No Records  Found");
 				}
 				System.out.println("-----------------------");
 				break;
